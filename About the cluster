@@ -1,0 +1,6 @@
+Our cluster is a Kubernetes-based system with a single master node running on Ubuntu OS.
+It uses the Calico network driver to provide secure and scalable networking for pod communication.
+The master node manages scheduling and monitoring, while worker nodes handle task execution. 
+The cluster is designed for horizontal scaling, supports containerized applications, and is used for microservices, 
+CI/CD, and batch processing. 
+We monitor the cluster using Prometheus and Grafana to ensure optimal performance and reliability."
